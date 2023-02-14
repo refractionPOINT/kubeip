@@ -14,7 +14,7 @@ require (
 	github.com/go-openapi/jsonreference v0.0.0-20161105162150-36d33bfe519e // indirect
 	github.com/go-openapi/spec v0.0.0-20171219195406-fa03337d7da5 // indirect
 	github.com/go-openapi/swag v0.0.0-20180102232305-84f4bee7c0a6 // indirect
-	github.com/gogo/protobuf v1.0.0 // indirect
+	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b // indirect
 	github.com/golang/groupcache v0.0.0-20190129154638-5b532d6fd5ef // indirect
 	github.com/google/btree v0.0.0-20180124185431-e89373fe6b4a // indirect
@@ -41,10 +41,8 @@ require (
 	github.com/spf13/pflag v1.0.1 // indirect
 	github.com/spf13/viper v1.0.2
 	github.com/stretchr/testify v1.3.0 // indirect
-	golang.org/x/crypto v0.0.0-20180606015541-b47b15873692 // indirect
-	golang.org/x/net v0.0.0-20180906233101-161cd47e91fd
+	golang.org/x/net v0.0.0-20201021035429-f5854403a974
 	golang.org/x/oauth2 v0.0.0-20180603041954-1e0a3fa8ba9a
-	golang.org/x/sync v0.0.0-20190423024810-112230192c58 // indirect
 	google.golang.org/api v0.0.0-20180607230103-4d8a15a217e4
 	google.golang.org/appengine v1.0.0 // indirect
 	gopkg.in/airbrake/gobrake.v2 v2.0.9 // indirect
